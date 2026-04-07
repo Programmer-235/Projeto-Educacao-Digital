@@ -3,37 +3,37 @@
       nome: "X-Tudo",
       ingredientes: "Pão, hambúrguer, queijo, presunto, ovo, bacon, alface, tomate, milho e batata palha",
       preco: "R$ 25,00",
-      imagem: "./img/gallery_8e735014-c9fa-4da4-849d-857c3a5efc74.jpg"
+      imagem: "./gallery_8e735014-c9fa-4da4-849d-857c3a5efc74.jpg"
     },
     {
       nome: "X-Salada",
       ingredientes: "Pão, hambúrguer, queijo, alface, tomate e maionese",
       preco: "R$ 18,00",
-      imagem: "./img/360_F_84285488_CaWrmiQ9xWJXFpCPMHD1r2ZYAzcESfkU.jpg"
+      imagem: "./360_F_84285488_CaWrmiQ9xWJXFpCPMHD1r2ZYAzcESfkU.jpg"
     },
     {
       nome: "X-Frango",
       ingredientes: "Pão, frango grelhado, queijo, alface e molho especial",
       preco: "R$ 20,00",
-      imagem: "./img/istockphoto-155160340-170667a.jpg"
+      imagem: "./istockphoto-155160340-170667a.jpg"
     },
     {
       nome: "Hambúrguer com Cheddar",
       ingredientes: "Pão, hambúrguer artesanal e muito queijo cheddar",
       preco: "R$ 22,00",
-      imagem: "./img/istockphoto-589115286-612x612-1.jpg"
+      imagem: "./istockphoto-589115286-612x612-1.jpg"
     },
     {
       nome: "Cachorro Quente",
       ingredientes: "Pão, salsicha, molho, milho, ervilha, batata palha e maionese",
       preco: "R$ 15,00",
-      imagem: "./img/360_F_617805134_6FhhdOpu86TWZJhxugOejQ0QHKRWvUJA.jpg"
+      imagem: "./360_F_617805134_6FhhdOpu86TWZJhxugOejQ0QHKRWvUJA.jpg"
     },
     {
       nome: "Pizza Havaiana (Especial)",
       ingredientes: "Molho de tomate, queijo, presunto e abacaxi",
       preco: "R$ 40,00",
-      imagem: "./img/depositphotos_79649834-stock-photo-hawaiian-pizza-on-the-old.jpg"
+      imagem: "./depositphotos_79649834-stock-photo-hawaiian-pizza-on-the-old.jpg"
     }
   ];
 
